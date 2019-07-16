@@ -1,0 +1,15 @@
+Variable1 = 1
+qcVersion =  'D010001B28T0101E0009'
+RGWVer = '3TG00118ABAB09'
+RGWIPaddr = '192.168.1.254'
+RGWHTTPpwd = 'Nq+L5st7o'
+RGWSSHpwd = 'm7p9LxpVFusQ'
+LandingURL = 'https://192.168.1.254/landing_page.cgi'
+Publickserver = 'ping.online.net'
+Innerserver = '10.1.1.254'
+Appserver = Innerserver
+iPerfPort =  '5210'
+Logpath = '..\\Log'
+Logname = ''
+Appserver_username = 'lte'
+Appserver_password = 'asb#1234'
